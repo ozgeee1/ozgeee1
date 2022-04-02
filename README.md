@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Özge
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Appcent as Java Developer.
 
 
