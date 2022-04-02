@@ -19,7 +19,7 @@
 
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg =250x250" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 
 
