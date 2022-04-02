@@ -15,7 +15,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="100" height="100" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100" height="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" height="100" />
 
 
 
