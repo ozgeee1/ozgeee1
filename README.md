@@ -13,4 +13,7 @@
 - 📫 How to reach me: ozge.ozz02@gmail.com
 
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 
